@@ -95,12 +95,12 @@
   </header>
 
   <section class="photo-section">
-    <img src="/home/marcosbraga/Imagens/fotominha.jpeg" alt="Nossa Foto">
+    <img src="fotominha.jpeg" alt="Nossa Foto">
   </section>
 
   <div class="audio-player">
     <audio controls>
-      <source src="/home/marcosbraga/Downloads/Oriente - Vagabundo Também Ama ⧸ Vida Longa Mundo Pequeno.mp3" type="audio/mpeg">
+      <source src="Oriente - Vagabundo Também Ama ⧸ Vida Longa Mundo Pequeno.mp3" type="audio/mpeg">
     </audio>
   </div>
 
